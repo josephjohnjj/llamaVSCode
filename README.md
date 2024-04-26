@@ -52,3 +52,19 @@ ollama create codegpt-codellama -f Modfile
 ```
 
 ![run](figs/modfile.png)
+
+Check id the new configuration is listed
+
+```
+ollama list
+```
+
+![run](figs/list.png)
+
+Test the new configuration
+
+```
+ollama run codegpt-codellama
+```
+
+![run](figs/test.png)
