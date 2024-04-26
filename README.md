@@ -17,3 +17,11 @@ Recheck if the model is available locally
 ```
 ollama list
 ```
+
+run __*Codellama*__
+
+```
+ollama run codellama
+```
+
+test the model 
