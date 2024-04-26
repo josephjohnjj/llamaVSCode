@@ -3,9 +3,17 @@ Using Llama to with VSCode
 
 ## Download and Install LLAMA
 
-Download and install [Ollama](https://ollama.com/download)
+Download and install [Ollama](https://ollama.com/download). 
 
-##
+## CodeLLAMA
+
+There are multiple LLM available for Ollama. In this case we will be using __*Codellama*__ which can use text prompts to generate and discuss code. Once Ollama is installed download  __*Codellama*__ model
 ```
-ollama run codellama
+ollama pull codellama
+```
+
+Recheck if the model is available locally
+
+```
+ollama list
 ```
