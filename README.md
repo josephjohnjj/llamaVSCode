@@ -83,3 +83,7 @@ and select the configuration we created
 
 ![run](figs/select.png)
 
+## Generate Code
+
+![run](figs/generate.png)
+
