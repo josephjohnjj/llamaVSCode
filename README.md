@@ -68,3 +68,10 @@ ollama run codegpt-codellama
 ```
 
 ![run](figs/test.png)
+
+## CodeGPT Extension
+
+Install the codeGPT extension in [VSCode](https://code.visualstudio.com/download).
+
+![run](figs/codegpt.png)
+
