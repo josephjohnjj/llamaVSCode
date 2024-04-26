@@ -25,3 +25,5 @@ ollama run codellama
 ```
 
 test the model 
+
+![run](figs/run.png)
