@@ -75,3 +75,11 @@ Install the codeGPT extension in [VSCode](https://code.visualstudio.com/download
 
 ![run](figs/codegpt.png)
 
+Then select __*Ollama*__ from the dropdown menu 
+
+![run](figs/ollama.png)
+
+and select the configuration we created
+
+![run](figs/select.png)
+
